@@ -1,0 +1,6 @@
+{
+  "name": "LogicMaster SHS - Biakoye",
+  "description": "Offline-first Logical Reasoning learning app for SHS learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
